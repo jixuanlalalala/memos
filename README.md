@@ -1,5 +1,5 @@
 <div align="center">
-  <p>
+  <p>  
     <span>Featured Sponsor:</span>
     <a href="https://go.warp.dev/memos" target="_blank" rel="noopener">
       <b>Warp</b>
